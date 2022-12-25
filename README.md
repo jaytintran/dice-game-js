@@ -5,3 +5,5 @@ When the dice is rolled, a random number is generated and displayed on the dice.
 The game also includes a score counter that keeps track of the total score for each roll.
 The game has a reset button that allows players to start a new game.
 The game is implemented using JavaScript, which handles the logic for rolling the dice, updating the score, and resetting the game.
+
+![image](https://user-images.githubusercontent.com/29084790/209478968-9878094e-c295-43e2-ad5b-a9e9b4d2799f.png)
